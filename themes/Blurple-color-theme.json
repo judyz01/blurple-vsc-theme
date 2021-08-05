@@ -2,10 +2,10 @@
 	"name": "Blurple",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#151a1d",
+		"editor.foreground": "#e8eeee",
+		"activityBarBadge.background": "#8132e7",
+		"sideBarTitle.foreground": "#5fdcec"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#6e6890cc"
 			}
 		},
 		{
